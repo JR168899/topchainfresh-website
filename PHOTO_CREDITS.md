@@ -6,7 +6,7 @@ The website uses real-world photography rather than AI-generated fruit, vegetabl
 
 - Homepage container ship: Unsplash photo ID `1742576437150-3a79cae681f2`
 - Product-page hero / produce market: Unsplash photo ID `1768751947109-d2a99be1aa9c`
-- Bananas: Md. Nazmul Islam Nayeem, Unsplash photo ID `1707857204029-56578d9228a5`
+- Bananas: Gabriel Mihalcea, https://unsplash.com/photos/1jyRHJPkpz8 — Unsplash photo ID `1640958900081-7b069dd23e9c`. Replaced October 24, 2026; locally served as `bananas-premium.jpg`.
 - Apples: Mettfluencer Mett Lifestyle, Unsplash photo ID `1558870623-9d182aa8ef0a`
 - Mangoes: Daniel Dan, Unsplash photo ID `1757281096599-b9165ba74008`
 - Lemons: Thitiphum Koonjantuek, https://unsplash.com/photos/TFqjlTmkeyY — photo ID `1590502593747-42a996133562`
