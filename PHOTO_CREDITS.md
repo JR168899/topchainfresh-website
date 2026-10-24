@@ -35,3 +35,16 @@ The website uses real-world photography rather than AI-generated fruit, vegetabl
 
 Unsplash License: https://unsplash.com/license
 
+
+## Bulk produce presentation — October 24, 2026
+
+All 20 product photographs were reviewed for multiple-item produce presentation. These selections supersede earlier entries for the same categories. Existing suitable bulk photographs are retained. Images are representative stock photography, not certification of grade or origin.
+
+- `bananas-bulk.jpg`: Zoshua Colah, https://unsplash.com/photos/elkuoh100wM — Unsplash License.
+- `oranges-bulk.jpg`: Jen Gunter, https://unsplash.com/photos/A4BBdJQu2co — Unsplash License.
+- `papayas-bulk.jpg`: PublicDomainPictures, https://pixabay.com/photos/papayas-pile-green-papaya-singapore-218892/ — Pixabay Content License.
+- `lettuce-bulk.jpg`: Kenny Kuo, https://unsplash.com/photos/DXwJQJdtR9s — Unsplash License.
+- `cabbages-bulk.jpg`: Eric Prouzet, https://unsplash.com/photos/DzN-T3ceOMI — Unsplash License.
+- `onions-bulk.jpg`: David Trinks, https://unsplash.com/photos/SPuSzXBlmyg — Unsplash License.
+
+Pixabay license: https://pixabay.com/service/license-summary/
